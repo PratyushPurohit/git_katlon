@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="google_urlhit" time="9.629" tests="1" failures="0" errors="0">
+   <testsuite name="google_urlhit" tests="1" failures="0" errors="0" time="9.629" skipped="0" timestamp="03-04-2024T12:15:34" hostname="pratyush.purohit@apmosys.mahape - administrator" id="Test Suites/git_katalon/google_urlhit">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/home/pratyush.purohit@apmosys.mahape/git/git_katlon/Reports/20240403_121526/git_katalon/google_urlhit/20240403_121526"/>
+         <property name="logFiles" value="/home/pratyush.purohit@apmosys.mahape/git/git_katlon/Reports/20240403_121526/git_katalon/google_urlhit/20240403_121526/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="pratyush.purohit@apmosys.mahape - administrator"/>
+         <property name="os" value="Linux 64bit"/>
+         <property name="katalonVersion" value="9.3.1.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="127.0.1.1"/>
+         <property name="sessionId" value="4349e1486784c56a2eed15b0e406bc00"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Linux"/>
+      </properties>
+      <testcase name="Test Cases/git_katlon/google_git_demo" time="9.173" classname="Test Cases/git_katlon/google_git_demo" status="PASSED">
+         <system-out><![CDATA[03-04-2024T12:15:35 - [TEST_CASE][PASSED] - Test Cases/git_katlon/google_git_demo: Test Cases/git_katlon/google_git_demo
+
+03-04-2024T12:15:35 - [TEST_STEP][PASSED] - openBrowser("google.com"): Browser is opened with url: 'google.com'
+
+03-04-2024T12:15:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-04-2024T12:15:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-04-2024T12:15:40 - [MESSAGE][PASSED] - Browser is opened with url: 'google.com'
+
+03-04-2024T12:15:41 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+03-04-2024T12:15:41 - [MESSAGE][PASSED] - Current window maximized
+
+03-04-2024T12:15:41 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+03-04-2024T12:15:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+03-04-2024T12:15:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-04-2024T12:15:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-04-2024T12:15:34 - [TEST_SUITE][PASSED] - google_urlhit: Test Cases/git_katlon/google_git_demo]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

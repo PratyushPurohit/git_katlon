@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+google_urlhit,Chrome 121.0.0.0,,,03-04-2024 12:15:34,03-04-2024 12:15:44,9.629s,PASSED
+,,,,,,,
+Test Cases/git_katlon/google_git_demo,Chrome 121.0.0.0,,,03-04-2024 12:15:35,03-04-2024 12:15:44,9.173s,PASSED
+"openBrowser(""google.com"")",Chrome 121.0.0.0,,,03-04-2024 12:15:35,03-04-2024 12:15:40,5.049s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,03-04-2024 12:15:41,03-04-2024 12:15:41,0.152s,PASSED
+delay(3),Chrome 121.0.0.0,,,03-04-2024 12:15:41,03-04-2024 12:15:44,3.086s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,03-04-2024 12:15:44,03-04-2024 12:15:44,0.187s,PASSED
